@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcd7ebad-beeb-4e8a-944a-dbbc783b76b4" name="Changes" comment="Selenium" />
+    <list default="true" id="fcd7ebad-beeb-4e8a-944a-dbbc783b76b4" name="Changes" comment="Selenium">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/XpathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class03/XpathDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HW2">
+  <component name="RunManager" selected="Application.XpathDemo">
     <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class02.HW1" />
       <module name="SeleniumBatch14" />
@@ -77,13 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SeleniumBatch14" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WebOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class02.WebOrder" />
       <module name="SeleniumBatch14" />
@@ -97,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class03.XpathDemo" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XpathDemo" />
         <item itemvalue="Application.HW2" />
         <item itemvalue="Application.HW1" />
         <item itemvalue="Application.WebOrder" />
         <item itemvalue="Application.LocatingElements" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
