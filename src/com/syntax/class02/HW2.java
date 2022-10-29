@@ -23,12 +23,12 @@ public class HW2 {
         driver.findElement(By.name("reg_email__")).sendKeys("janesmith98765432@gmail.com");
         driver.findElement(By.name("reg_email_confirmation__")).sendKeys("janesmith98765432@gmail.com");
         driver.findElement(By.id("password_step_input")).sendKeys("Pass123456");
-        driver.findElement(By.id("day")).sendKeys("10");
-        driver.findElement(By.id("month")).sendKeys("5");
-        driver.findElement(By.id("year")).sendKeys("1990");
 
-       // close the pop up
-        // close the browser
+        // close the pop-up
+        driver.findElement(By.xpath("//img[contains(@src, 'https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/zgulV2zGm8t.png')]")).click();
+
+        // quit the browser
+        driver.quit();
 
 
 

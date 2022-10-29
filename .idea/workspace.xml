@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcd7ebad-beeb-4e8a-944a-dbbc783b76b4" name="Changes" comment="Selenium">
+    <list default="true" id="fcd7ebad-beeb-4e8a-944a-dbbc783b76b4" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass/FBHomework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class03/XpathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class03/XpathDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class02/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class02/HW2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.XpathDemo">
+  <component name="RunManager" selected="Application.HW2">
+    <configuration name="FBHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.ReviewClass.FBHomework" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.ReviewClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class02.HW1" />
       <module name="SeleniumBatch14" />
@@ -56,19 +70,6 @@
     </configuration>
     <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class02.HW2" />
-      <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LocatingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class02.LocatingElements" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XpathDemo" />
         <item itemvalue="Application.HW2" />
+        <item itemvalue="Application.FBHomework" />
+        <item itemvalue="Application.XpathDemo" />
         <item itemvalue="Application.HW1" />
         <item itemvalue="Application.WebOrder" />
-        <item itemvalue="Application.LocatingElements" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666993453967</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1667000868499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667000868499</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1667001669956</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667001669956</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
