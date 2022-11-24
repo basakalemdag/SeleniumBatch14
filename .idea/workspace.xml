@@ -1,13 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcd7ebad-beeb-4e8a-944a-dbbc783b76b4" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class04/AdditionalMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class04/CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class04/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class04/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class04/RadioButtons.java" afterDir="false" />
+    <list default="true" id="fcd7ebad-beeb-4e8a-944a-dbbc783b76b4" name="Changes" comment="third commit">
+      <change afterPath="$PROJECT_DIR$/screenshots/SmartBear/adminLogin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/SmartBear/adminLogin123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/Pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass1/CheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass1/DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass1/PracticeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass1/RadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass2/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass2/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass2/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass2/Waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass3/HWTableSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass3/ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass3/WaitReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/Test/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class01/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class02/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class03/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class04/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/CheckBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/CheckBoxDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/DropDownDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/GetAllLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/MultipleSelectDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class05/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class06/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class06/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class06/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class06/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class07/HW1WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class07/HW2ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class07/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class07/ImplicitWaits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class07/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class07/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class07/WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class07/WindowHandlingAdvance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class08/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class08/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class08/TableBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class08/WaitDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class08/WaitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class09/DynamicReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class09/DynamicTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/Table1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class10/Table1Pagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/ActionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/ActionClassExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/KeyUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class11/ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/utils/CommonMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumBatch14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/ReviewClass/FBHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/ReviewClass1/FBHomework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +88,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP-PC/Desktop/SDET/Selenium/Selenium Installation Files/selenium-java-3.4.0/lib/xml-apis-1.4.01.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HP-PC/Desktop/Basak/commons-io-2.6.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.HW2">
-    <configuration name="AdditionalMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class04.AdditionalMethods" />
+}]]></component>
+  <component name="RunManager" selected="Application.LoginPageTest">
+    <configuration name="ActionClassExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class11.ActionClassExamples" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class04.*" />
+          <option name="PATTERN" value="com.syntax.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class04.CssSelector" />
+    <configuration name="DragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class11.DragAndDrop" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class04.*" />
+          <option name="PATTERN" value="com.syntax.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class04.HW1" />
+    <configuration name="KeyUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class11.KeyUsage" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class04.*" />
+          <option name="PATTERN" value="com.syntax.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class04.HW2" />
+    <configuration name="LoginPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.Test.LoginPageTest" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class04.*" />
+          <option name="PATTERN" value="com.syntax.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class04.RadioButtons" />
+    <configuration name="ScreenShot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class11.ScreenShot" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class04.*" />
+          <option name="PATTERN" value="com.syntax.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW2" />
-        <item itemvalue="Application.HW1" />
-        <item itemvalue="Application.AdditionalMethods" />
-        <item itemvalue="Application.RadioButtons" />
-        <item itemvalue="Application.CssSelector" />
+        <item itemvalue="Application.LoginPageTest" />
+        <item itemvalue="Application.ScreenShot" />
+        <item itemvalue="Application.ActionClassExamples" />
+        <item itemvalue="Application.KeyUsage" />
+        <item itemvalue="Application.DragAndDrop" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667010912140</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="third commit">
+      <created>1667430084510</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667430084510</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,8 +243,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Selenium" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>
